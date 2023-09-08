@@ -7,7 +7,6 @@ import jpabook.jpashop.domain.Order;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Repository;
 import org.springframework.util.StringUtils;
-import org.thymeleaf.spring6.processor.SpringUErrorsTagProcessor;
 
 import java.util.ArrayList;
 import java.util.List;
